@@ -1,0 +1,11 @@
+impl/
+src/dsim_work/
+src/.slang/
+src/dsim.env
+src/dsim.log
+src/metrics.db
+src/*.vcd
+*.user
+*.log
+*.db
+*.vcd

@@ -1,0 +1,22 @@
+<?xml version="1" encoding="UTF-8"?>
+<!DOCTYPE gowin-fpga-project>
+<Project>
+    <Template>FPGA</Template>
+    <Version>5</Version>
+    <Device name="GW2AR-18C" pn="GW2AR-LV18QN88C8/I7">gw2ar18c-000</Device>
+    <FileList>
+        <File path="src/Alu.sv" type="file.verilog" enable="1"/>
+        <File path="src/AluDecoder.sv" type="file.verilog" enable="1"/>
+        <File path="src/adder.sv" type="file.verilog" enable="1"/>
+        <File path="src/controlUnit.sv" type="file.verilog" enable="1"/>
+        <File path="src/dataPath.sv" type="file.verilog" enable="1"/>
+        <File path="src/dmem.sv" type="file.verilog" enable="1"/>
+        <File path="src/extend.sv" type="file.verilog" enable="1"/>
+        <File path="src/imem.sv" type="file.verilog" enable="1"/>
+        <File path="src/loadFormatter.sv" type="file.verilog" enable="1"/>
+        <File path="src/mainDecoder.sv" type="file.verilog" enable="1"/>
+        <File path="src/regfile.sv" type="file.verilog" enable="1"/>
+        <File path="src/riscv.sv" type="file.verilog" enable="1"/>
+        <File path="src/tb_riscv.sv" type="file.verilog" enable="1"/>
+    </FileList>
+</Project>

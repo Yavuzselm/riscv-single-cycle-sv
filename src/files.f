@@ -1,0 +1,13 @@
+adder.sv
+Alu.sv
+controlUnit.sv
+dataPath.sv
+dmem.sv
+imem.sv
+extend.sv
+regfile.sv
+loadFormatter.sv
+AluDecoder.sv
+mainDecoder.sv
+riscv.sv
+tb_riscv.sv
